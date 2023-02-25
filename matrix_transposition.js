@@ -1,5 +1,3 @@
-// Week 4 pair programming exercise authored by Medhanie Alene (@MedaGrande)
-// and Denny Ng (@Desyn6) on 2023-02-17
 const transpose = function(matrix) {
   // Put your solution here
   let output = [];
